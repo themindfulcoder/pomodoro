@@ -1,0 +1,14 @@
+/home/dwayne/Code/pomodoro/src/pomo-api/bin/Debug/netcoreapp2.1/pomo-api.deps.json
+/home/dwayne/Code/pomodoro/src/pomo-api/bin/Debug/netcoreapp2.1/pomo-api.runtimeconfig.json
+/home/dwayne/Code/pomodoro/src/pomo-api/bin/Debug/netcoreapp2.1/pomo-api.runtimeconfig.dev.json
+/home/dwayne/Code/pomodoro/src/pomo-api/bin/Debug/netcoreapp2.1/pomo-api.dll
+/home/dwayne/Code/pomodoro/src/pomo-api/bin/Debug/netcoreapp2.1/pomo-api.pdb
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.csprojAssemblyReference.cache
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.csproj.CoreCompileInputs.cache
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.RazorAssemblyInfo.cache
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.RazorAssemblyInfo.cs
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.AssemblyInfoInputs.cache
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.AssemblyInfo.cs
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.RazorTargetAssemblyInfo.cache
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.dll
+/home/dwayne/Code/pomodoro/src/pomo-api/obj/Debug/netcoreapp2.1/pomo-api.pdb

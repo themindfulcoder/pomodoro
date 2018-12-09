@@ -1,0 +1,11 @@
+/home/dwayne/Code/pomodoro/src/redis-test/obj/Debug/netcoreapp2.1/redis-test.csprojAssemblyReference.cache
+/home/dwayne/Code/pomodoro/src/redis-test/obj/Debug/netcoreapp2.1/redis-test.csproj.CoreCompileInputs.cache
+/home/dwayne/Code/pomodoro/src/redis-test/obj/Debug/netcoreapp2.1/redis-test.AssemblyInfoInputs.cache
+/home/dwayne/Code/pomodoro/src/redis-test/obj/Debug/netcoreapp2.1/redis-test.AssemblyInfo.cs
+/home/dwayne/Code/pomodoro/src/redis-test/bin/Debug/netcoreapp2.1/redis-test.deps.json
+/home/dwayne/Code/pomodoro/src/redis-test/bin/Debug/netcoreapp2.1/redis-test.runtimeconfig.json
+/home/dwayne/Code/pomodoro/src/redis-test/bin/Debug/netcoreapp2.1/redis-test.runtimeconfig.dev.json
+/home/dwayne/Code/pomodoro/src/redis-test/bin/Debug/netcoreapp2.1/redis-test.dll
+/home/dwayne/Code/pomodoro/src/redis-test/bin/Debug/netcoreapp2.1/redis-test.pdb
+/home/dwayne/Code/pomodoro/src/redis-test/obj/Debug/netcoreapp2.1/redis-test.dll
+/home/dwayne/Code/pomodoro/src/redis-test/obj/Debug/netcoreapp2.1/redis-test.pdb
